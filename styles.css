@@ -33,14 +33,14 @@ main {
   gap: 15px;
 }
 
-img {
+.img-container {
   margin: 15px;
   margin-bottom: 9px;
 
   border-radius: 10px;
 }
 
-h1 {
+.heading-container {
   color: var(--dark-blue);
   font-size: 22px;
   font-weight: 700;
