@@ -18,7 +18,7 @@
 
 ## **Links**
 
-- Solution URL:https://www.frontendmentor.io/solutions/qr-code-component-1Ipbwsqai4 
+- Solution URL: 
 - Live Site URL:https://ruthjoy76.github.io/qr-code-challenge/ 
 <br>
 
