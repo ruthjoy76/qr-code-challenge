@@ -11,6 +11,7 @@
 <br />
 
 ## **Preview**
+<br>
 
 ![Alt text](design/qr-code.png)
 
@@ -18,8 +19,8 @@
 
 ## **Links**
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-1Ipbwsqai4
-- Live Site URL:https://ruthjoy76.github.io/qr-code-challenge/ 
+- Solution URL:  <a href="https://www.frontendmentor.io/solutions/qr-code-component-1Ipbwsqai4" target="_blank"><strong>Here</strong></a>
+- Live Site URL: <a href="https://ruthjoy76.github.io/qr-code-challenge/" target="_blank"><strong>Here</strong></a> 
 <br>
 
 ## **Built With**
@@ -41,22 +42,18 @@
 * Used <em>**Git** </em> and <em> **GitHub**</em>  for project management
 * Maintain <em>**clean code**</em>
 * I applied all the lesson that I've learned in KodeGo.
-
-
 <br>
 
 ## **What I learned**
 * Flexbox and grid
 * pseudo class (:root)
-* Semantic elements
-  
+* Semantic elements  
 <br>
-
 
 ## **Acknowledgment**
 
 * Inspiration by [Frontend Mentor](https://www.frontendmentor.io)
 
-<br>
+
 
 
