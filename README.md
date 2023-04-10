@@ -19,7 +19,7 @@
 ## **Links**
 
 - Solution URL: 
-- Live Site URL:https://ruthjoy76.github.io/qr-code-challenge/ 
+- Live Site URL:   <a href="https://ruthjoy76.github.io/qr-code-challenge/ " target="_blank"><strong>Here</strong></a>
 <br>
 
 ## **Built With**
