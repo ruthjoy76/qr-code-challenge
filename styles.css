@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
 :root {
@@ -29,7 +28,7 @@ main {
   background-color: var(--white);
   padding-bottom: 35px;
   border-radius: 15px;
-  box-shadow: 0px 2px 15px var(--grayish-blue) ;
+  box-shadow: 0 2px 14px rgba(0,0,0,.1) ;;
   gap: 15px;
 }
 
@@ -57,6 +56,10 @@ p{
 }
 
 .attribution { 
+  position: absolute;
+  margin-bottom: 1rem;
+  bottom: 0;
+
   font-size: 11px; 
   text-align: center;
  }
@@ -64,3 +67,5 @@ p{
 .attribution a { 
   color: hsl(228, 45%, 44%); 
 }
+
+
